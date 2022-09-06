@@ -1,4 +1,4 @@
-polybar -r &
+polybar -r --config=~/Code/dotfiles/polybar/config.ini &
 picom & 
 feh --bg-scale ~/Pictures/Nord_Nord_Wallpaper_Pack-1901187.png & 
 #
