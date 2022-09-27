@@ -34,7 +34,7 @@ bakcyn='\[\e[46m\]'   # Cyan
 bakwht='\[\e[47m\]'   # White
 txtrst='\[\e[0m\]'    # Text Reset
 
-
+export PATH=/home/creator/.cargo/bin:$PATH
 # Prompt
 export PS1="${txtblu} ${txtcyn} \w ${txtred}${txtylw} ${txtwht}"
 

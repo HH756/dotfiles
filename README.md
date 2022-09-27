@@ -11,3 +11,6 @@ There are two fonts set inside the config file, I trust you can locate where the
 
 ## Machine Specific Polybar Actions
 I have set my openbox autostart to start polybar pulling the config from ~/Code/dotfiles/polybar/config. This is my dotfiles repo, you can do the same if you wish. If not, though, you will be required to change the openbox autostart file, changing the polybar entry from `polybar -r --config=~/Code/dotfiles/polybar/config.ini` to (for default config paths) `polybar -r` this will load the default polybar configuration file, or if you choose to do so, a config you moved to the default location. By default polybar pulls from `~/.config/polybar/config.ini`, `/etc/xdg/polybar/config.ini1`, or `/etc/polybar/config.ini`. You can move my, or any, configuration file to any of these locations and it will work without the `--config=<path to config>` flag in the terminal or autostart file.
+
+## ALACRITTY USER SPECIFIC
+The Alacritty window position will be different for everyone, based on preference and screen size. I have Alacritty configured for a high resolution display; the window position will be disturbed up on lower resolution displays. You will have to change the window size in the Alacritty config file yourself, to match your preference and screen size. 
