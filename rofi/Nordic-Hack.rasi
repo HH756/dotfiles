@@ -14,16 +14,16 @@
     scrollbar: true;
 
     /* Nordic Colors */
-    darkbackground:		       #2E3440;
-    gruvbox-dark-bg0:          #2E3440;
-    gruvbox-dark-bg2:          #434C5E;
-    gruvbox-dark-fg0:          #ECEFF4;
-    gruvbox-dark-fg1:          #E5E9F0;
+    darkbackground:		       #292828;
+    gruvbox-dark-bg0:          #212121;
+    gruvbox-dark-bg2:          #333232;
+    gruvbox-dark-fg0:          #D4BE98;
+    gruvbox-dark-fg1:          #E6CEA5;
     gruvbox-dark-red-dark:     #ff0000;
     gruvbox-dark-red-light:    #ff0000;
     gruvbox-dark-yellow-dark:  #ff0000;
     gruvbox-dark-yellow-light: #ff0000;
-    gruvbox-dark-gray:         #D8DEE9;
+    gruvbox-dark-gray:         #333232;
 
     /* Theme colors */
     background:                  @darkbackground;
