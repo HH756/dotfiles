@@ -2,6 +2,7 @@
 
 ![PolybarConfiguation](https://user-images.githubusercontent.com/67608772/187841967-6da9a54f-3c37-4356-91ac-68971878ad09.png)
 ![Screenshot_2022-09-01_10-15-34](https://user-images.githubusercontent.com/67608772/187973794-35b71133-9c1b-4064-9c7c-eb1d65cb6459.png)
+![image](https://user-images.githubusercontent.com/67608772/194721263-981c4bd4-63e0-46a5-99e2-acf1de5e7bee.png)
 font - Typori ^
 ![Screenshot_2022-09-01_00-20-28](https://user-images.githubusercontent.com/67608772/187855602-370ba128-f7f5-425d-a7c3-6f26bd81bcde.png)
 font - IBM Plex Mono ^
