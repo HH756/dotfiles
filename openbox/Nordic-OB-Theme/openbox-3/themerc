@@ -19,7 +19,7 @@ menu.items.active.text.color: #ffffff
 *.justify: left
 
 !! focused window settings
-window.active.client.color: #f7f7f7
+window.active.client.color: #D4BE98
 
 window.active.title.bg: flat border solid
 window.active.title.bg.color: #303643
